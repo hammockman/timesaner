@@ -19,8 +19,9 @@ The UI is painful and requires precision mouse input, something that is difficul
 
 ### Feature List
 
-* Currently a single click addas a half-hour block to the currently selected day
+* Currently a single click on a task code adds as a half-hour block to the currently selected day. It would be nice if double and triple clicks changed the duration to 4 h and 8h respectively.
 * Automatically colour code (rather than the current manual colour selection).
+* Random timesheet generation (maybe based on recent weeks).
 
 
 ## TimeSaver 3.0
@@ -36,4 +37,5 @@ The UI is painful and requires precision mouse input, something that is difficul
 | `TS_XXXXX.tsf` | `XXXXX` is a 5 digit employee code. This is the only file that is modified when the user saves the timesheer (Ctrl+s)|
 | `TS_XXXXX.TMP` | Appears to be generated when a coressponding `.tsf` file cannot be saved. |
 
+A startup TS3 retrieves task structure from a company server 
 
