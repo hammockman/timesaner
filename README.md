@@ -8,7 +8,7 @@ A better UI for TimeSaver 3.0
 
 The UI is painful and requires precision mouse input, something that is difficult on a laptop with a touchpad, even if you're not driving at the same time. It is also harder than necessary to fill larger chunks of a day with a single task.
 
-<center><img src="https://user-images.githubusercontent.com/6187172/180629940-c5906c68-f3a3-42fb-bab9-44e92c58818b.png" width="50%"></center>
+<center><img src="https://user-images.githubusercontent.com/6187172/180629940-c5906c68-f3a3-42fb-bab9-44e92c58818b.png" width="80%"></center>
 
 
 ## Roadmap
