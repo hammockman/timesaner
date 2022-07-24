@@ -8,6 +8,7 @@ A better UI for TimeSaver 3.0
 
 The UI is painful and requires precision mouse input, something that is difficult on a laptop with a touchpad, even if you're not driving at the same time. It is also harder than necessary to fill larger chunks of a day with a single task.
 
+![image](https://user-images.githubusercontent.com/6187172/180629940-c5906c68-f3a3-42fb-bab9-44e92c58818b.png)
 
 
 ## Roadmap
@@ -35,7 +36,11 @@ The UI is painful and requires precision mouse input, something that is difficul
 | `TS2000.tst` | The task list. Saved on application exit. |
 | `TS2000.tau` | Empty file. Maybe used to store other user info for people with direct reports.|
 | `TS_XXXXX.tsf` | `XXXXX` is a 5 digit employee code. This is the only file that is modified when the user saves the timesheer (Ctrl+s)|
-| `TS_XXXXX.TMP` | Appears to be generated when a coressponding `.tsf` file cannot be saved. |
+| `TS_XXXXX.TMP` | Appears to be generated when a corresponding `.tsf` file cannot be saved. |
 
-A startup TS3 retrieves task structure from a company server 
+At startup TS3 retrieves task structure from a company server. 
+
+
+
+### `.tsf` format
 
